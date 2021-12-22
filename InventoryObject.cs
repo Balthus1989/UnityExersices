@@ -28,6 +28,7 @@ public class InventoryObject : ScriptableObject
     }
 }
 
+// For more info: https://docs.unity3d.com/Manual/script-Serialization.html
 [System.Serializable]
 public class InventorySlot
 {
